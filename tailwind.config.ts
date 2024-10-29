@@ -13,6 +13,14 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      colors:{
+        gibSky: "#C3EBFA",
+        gibSkyLight: "#EDF9FD",
+        gibsPurple : "#CFCEFF",
+        gibsPurpleLight : "#F1F0FF",
+        gibsYellow : "#FAE27C",
+        gibsYellowLight : "#FEFCE8",
+      }
     },
   },
   plugins: [],
